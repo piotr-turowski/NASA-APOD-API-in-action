@@ -1,0 +1,14 @@
+
+body {
+font-family: sans-serif;
+}
+
+b {
+  color: blue;
+  border-top:2px solid;
+  border-bottom:2px solid;
+}
+img {
+  width:50%;
+  height:50%;
+}
